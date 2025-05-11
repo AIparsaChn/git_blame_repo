@@ -7,3 +7,7 @@ def int_to_str(number: int):
 
 def test():
     return False
+
+
+def data_base(data):
+    return True
